@@ -12,7 +12,7 @@
 
 ## Установка
 1. Убедитесь, что у вас установлен Python версии 3.6 или выше.
-2. Склонируйте репозиторий:
+2. Склопируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/chess-game.git
+   git clone https://github.com/enj0yeer/chess-game.git
    cd chess-game
